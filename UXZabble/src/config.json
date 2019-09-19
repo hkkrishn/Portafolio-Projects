@@ -1,0 +1,12 @@
+{
+  "apiGateway": {
+		"REGION": "us-east-1",
+		"URL": "https://q4q8qnkav9.execute-api.us-east-1.amazonaws.com/dev/dashboard"
+	},
+
+  "cognito":{
+    "REGION":"us-east-1",
+    "USER_POOL_ID":"us-east-1_2v3qndK4E",
+    "APP_CLIENT_ID":"1qadhh9glu1hk110ciiqe3k40p"
+    }
+}
